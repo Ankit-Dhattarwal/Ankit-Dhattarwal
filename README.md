@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-dhattarwal&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-dhattarwal" /> </p>
 
-- 🌱 I’m currently learning Data Science **Data Science Master**
+- 🌱 I’m currently learning Flutter and  **Data Science Master**
 
 - 🤝 I’m currently working on [Homzy(Home Service App)](https://github.com/Ankit-Dhattarwal/home_service_admin_app)
 
