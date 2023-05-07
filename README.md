@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter** and  **Data Science Master** 
+- 🌱 I’m currently learning **Flutter** , **Web development** and  **Data Science Master** 
 
 - 🤝 I’m currently working on [Homzy(Home Service App)](https://github.com/Ankit-Dhattarwal/home_service_admin_app)
 - 🤝 I’m currently working on [Homzy_Provider(Home Service App)](https://github.com/Ankit-Dhattarwal/Homzy_provider)
