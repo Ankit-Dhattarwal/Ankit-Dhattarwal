@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **er.ankitdhattarwal@gmail.com**
 
-- ⚡ Fun fact **I have a pet bunny named Coco 🐰**
+- ⚡ Fun fact: **I have a pet bunny named Coco 🐰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
