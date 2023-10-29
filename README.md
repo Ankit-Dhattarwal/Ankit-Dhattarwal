@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **er.ankitdhattarwal@gmail.com**
 
-- ⚡ Fun fact **Java Programmer wear glasses because they can't C 😅**
+- ⚡ Fun fact ** **I have a pet bunny named Coco 🐰**
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
