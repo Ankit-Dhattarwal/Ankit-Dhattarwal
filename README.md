@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **I have a pet bunny named Coco 🐰**
   
-- 🔗 Visit My Blog: [CODER'S Blog](https://coders-blog-xrxu.onrender.com)
+- 🔗 Visit My Blog: [Coder's Blog](https://coders-blog-xrxu.onrender.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
