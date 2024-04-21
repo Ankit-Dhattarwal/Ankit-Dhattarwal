@@ -14,7 +14,7 @@
 - ⚡ Fun fact: **I have a pet bunny named Coco 🐰**
   
 - 🔗 Join My Blog: Let's Explore Together!
-- [Coder's Blog](https://coders-blog-xrxu.onrender.com) is open for adventure! Dive in, share your thoughts, and let's create unforgettable experiences side by side! 🌈✨
+  [Coder's Blog](https://coders-blog-xrxu.onrender.com) is open for adventure! Dive in, share your thoughts, and let's create unforgettable experiences side by side! 🌈✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
