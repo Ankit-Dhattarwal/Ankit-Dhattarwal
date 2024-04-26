@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter** , **Web developer**
+- 🌱 I’m currently learning **Flutter** , **Web development**
 
 - 🤝 I’m currently working on [Fluom_Store ](https://github.com/Ankit-Dhattarwal/fluom_store)
 
