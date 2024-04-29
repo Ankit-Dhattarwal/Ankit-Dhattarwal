@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ankit-Dhattarwal&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-dhattarwal" /> </p>
 
 - 🌱 I’m currently learning **Flutter** , **Web development**
 
@@ -30,3 +30,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-dhattarwal&show_icons=true&locale=en" alt="ankit-dhattarwal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-dhattarwal&" alt="ankit-dhattarwal" /></p>
+
+<div align="center">
+
+ ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
