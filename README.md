@@ -14,7 +14,7 @@
 - 📫 How to reach me **er.ankitdhattarwal@gmail.com**
 
 - ⚡ Fun fact: **I have a pet bunny named Coco 🐰**
-- Explore my projects and see what I've been building lately![Portfolio 🚀](https://ankitdhattarwalportfolio.vercel.app/)
+- Explore my projects and see what I've been building lately[Portfolio](https://ankitdhattarwalportfolio.vercel.app/)🚀
   
 - 🔗 Join My Blog: Let's Explore Together!  [Coder's Blog](https://coders-blog-xrxu.onrender.com) 🌈✨
 
