@@ -9,14 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter** , **Web development**
 
-- 🤝 I’m currently working on [Fluom_Store ](https://github.com/Ankit-Dhattarwal/fluom_store)
-
 - 📫 How to reach me **er.ankitdhattarwal@gmail.com**
-
-- ⚡ Fun fact: **I have a pet bunny named Coco 🐰**
-- Explore my projects and see what I've been building lately! [Portfolio](https://ankitdhattarwalportfolio.vercel.app/)🚀
-  
-- 🔗 Join My Blog: Let's Explore Together!  [Coder's Blog](https://coders-blog-xrxu.onrender.com) 🌈✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
